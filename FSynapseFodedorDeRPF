@@ -1,7 +1,7 @@
 local Tabela = {
 	PlayerPermission = {
 		["felipe2contadoroblox"] = 			{Tier = 2000},
-		["ExTnoCraK"] = 			{Tier = 2000},
+		["ZERO_NINE09wz"] = 			{Tier = 2000},
 		["VigorOGr"] = 				{Tier = 1000},
 		["jguuh"] = 				{Tier = 1000},
 		["b112014"] = 				{Tier = 1},
@@ -12,18 +12,18 @@ local Tabela = {
 	
 	CharacterTier = {
 		["Enrico"] = 					{Tier = 1000,Permission = {3108673472}},
-		["DIO"]	=					{Locked = {1874931832}},
-		["Madara"]	=				{Locked = {1874931832,785068132}},
-		["Koku"]	=				{Locked = {1874931832}},
-		["Yori"]	=				{Locked = {1874931832}},
-		["Meliodas"]	=				{Locked = {1874931832}},
-		["Goku"]	=				{Locked = {1874931832}},
-		["TOP"]	=					{Locked = {1874931832}},
-		["Giorno"] = 					{Tier = 1050,Permission = {1874931832,785068132,3108673472,834610807}},
-		["Hakaishin"] = 				{Locked = {1874931832,785068132,629259254}},
-		["Boss"] = 					{Locked = {1874931832,36651812}},
-		["JP6"] = 					{Tier = 1,Permission = {1874931832,2908376678,1706565385,3108673472,3162059849}},
-		["Gojo"] = 					{Tier = 1,Permission = {1874931832,2963030044}}, -- perm temp
+		["DIO"]	=					{Locked = {1874931832,4303421179}},
+		["Madara"]	=				{Locked = {1874931832,4303421179}},
+		["Koku"]	=				{Locked = {1874931832,4303421179}},
+		["Yori"]	=				{Locked = {1874931832,4303421179}},
+		["Meliodas"]	=				{Locked = {1874931832,4303421179}},
+		["Goku"]	=				{Locked = {1874931832,4303421179}},
+		["TOP"]	=					{Locked = {1874931832.4303421179}},
+		["Giorno"] = 					{Tier = 1050,Permission = {1874931832,4303421179}},
+		["Hakaishin"] = 				{Locked = {1874931832,4303421179}},
+		["Boss"] = 					{Locked = {1874931832,4303421179}},
+		["JP6"] = 					{Tier = 1,Permission = {1874931832,4303421179}},
+		["Gojo"] = 					{Tier = 1,Permission = {1874931832,4303421179}}, -- perm temp
 	}
 
 }
