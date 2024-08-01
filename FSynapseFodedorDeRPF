@@ -1,7 +1,3 @@
-if not game:IsLoaded() then
-    game.Loaded:Wait()
-end
-local success, err = pcall(function()
     local Swagmode = Instance.new("ScreenGui")
     local SwagmodeFrame = Instance.new("Frame")
     local MenuFrame = Instance.new("Frame")
