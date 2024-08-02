@@ -4326,4 +4326,4 @@ coroutine.wrap(OZAKZ_fake_script)()
         announce('Commands Loaded', 'join discord.gg/swagmode for a list of commands', 10)
     end
 end)
-if err then print(err) end
+
